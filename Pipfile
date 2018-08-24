@@ -4,6 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+enlightenme = "==0.0.4"
+"boto3" = "*"
 
 [dev-packages]
 awscli = "*"

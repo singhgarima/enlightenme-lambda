@@ -1,1 +1,9 @@
 .idea
+requirements.txt
+pkg
+*.zip
+news.csv
+
+**/.DS_Store
+requirements.txt
+run.sh

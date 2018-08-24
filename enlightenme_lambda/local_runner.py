@@ -1,0 +1,3 @@
+from enlightenme_lambda import lambda_function
+
+lambda_function.lambda_handler()
